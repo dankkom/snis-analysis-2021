@@ -1,0 +1,7 @@
+.venv/
+data/
+doc/
+img/
+
+poetry.lock
+.python-version
