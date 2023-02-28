@@ -13,7 +13,6 @@ statsmodels = "*"
 seaborn = "*"
 requests = "*"
 sidrapy = "*"
-tslearn = "*"
 geopandas = "*"
 
 [tool.poetry.group.dev.dependencies]
